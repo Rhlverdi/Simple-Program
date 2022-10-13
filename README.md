@@ -1,2 +1,15 @@
 # Simple-Program
-Ini adalah sebuah program sederhana untuk melakukan registrasi dan login akun lalu mengerjakan soal yang telah tersedia didalam kode
+create program using C++ programming language:
+## akun2.cpp
+ - iostream
+ - stdlib.h
+ - conio.h
+ 
+ ## main.cpp
+ - iostream
+ - string
+ - fstream
+ 
+ ## primesNumber.cpp
+ - iostream
+
